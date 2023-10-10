@@ -1,0 +1,11 @@
+{
+    "token_base64": "Tm90IHB1dHRpbmcgdGhlIGFjdHVhbCB0b2tlbiBoZXJlIGxvbA==",
+    "admin_user": "my discord account went here#6969",
+    "command_prefix": "##",
+    "argument_separator": ":",
+    "reply_to_pings": false,
+    "censor": true,
+    "regular_commands": true,
+    "web_commands": true,
+    "lottery_commands": true
+}

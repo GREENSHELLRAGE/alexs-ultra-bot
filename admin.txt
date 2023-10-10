@@ -1,0 +1,8 @@
+---Admin Commands---
+`(prefix)config`
+`(prefix)editconfig(argument)`**setting**`(argument)`**value** (BE EXTREMELY CAREFUL WITH THIS COMMAND)
+`(prefix)files`
+`(prefix)restart`
+`(prefix)sendfile(argument)`**file name**
+`(prefix)shutdown`
+`(prefix)update`**attached file**

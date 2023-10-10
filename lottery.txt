@@ -1,0 +1,5 @@
+---Lottery Commands---
+`(prefix)deletedata`
+`(prefix)lottery`
+`(prefix)lotterydata`
+`(prefix)lotteryinfo`

@@ -1,0 +1,5 @@
+---Web Commands---
+`(prefix)news(argument)`**topic**
+`(prefix)randomud`
+`(prefix)ud(argument)`**word**
+`(prefix)weather(argument)`**city**

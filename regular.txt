@@ -1,0 +1,14 @@
+---Regular Commands---
+`(prefix)about`
+`(prefix)beemovie`
+`(prefix)bt(argument)`**text** (supported text: a-z 0-9 # * . < > ? ! + - $)
+`(prefix)b64decode(argument)`**base64 string**
+`(prefix)b64encode(argument)`**text**
+`(prefix)coin(argument)`**number** (can flip from 1 to 280 coins)
+`(prefix)dice(argument)`**number** (can roll from 1 to 648 dice)
+`(prefix)rickroll`
+`(prefix)rps(argument)`**rock, paper, or scissors**
+`(prefix)time`
+`(prefix)truth or dare`
+`(prefix)uptime`
+`(prefix)ussr`
