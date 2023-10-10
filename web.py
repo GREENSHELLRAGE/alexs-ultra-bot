@@ -64,7 +64,7 @@ def current_weather(city):
         querystring = {"q": city}
         headers = {
             'x-rapidapi-host': "weatherapi-com.p.rapidapi.com",
-            'x-rapidapi-key': "15511b16cbmsh1f65be95837033dp132bbfjsna6fc7ea28269"
+            'x-rapidapi-key': "api token went here"
         }
         response = requests.request("GET", url, headers=headers, params=querystring, timeout=(2, 3))
         response.raise_for_status()
@@ -107,7 +107,7 @@ def news(topic):
         querystring = {"q": topic, "lang": "en", "page": "1", "page_size": "10"}
         headers = {
             'x-rapidapi-host': "free-news.p.rapidapi.com",
-            'x-rapidapi-key': "15511b16cbmsh1f65be95837033dp132bbfjsna6fc7ea28269"
+            'x-rapidapi-key': "api token went here"
         }
         response = requests.request("GET", url, headers=headers, params=querystring, timeout=(2, 3))
         response.raise_for_status()
