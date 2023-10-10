@@ -1,6 +1,6 @@
 # Alex's Ultra Bot
 
-This is the source code of a Discord bot I made in high school known as ```Alex's Ultra Bot```. The code is pretty trash (by my standards today) and I would write it very differently if I were to remake this bot today. Also Discord has probably made major changes to their API since I wrote this code, so this bot probably doesn't even work anymore. That being said, this was by far my biggest coding project at the time I made this, and it did have quite a few features:
+This is the source code of a Discord bot I made in high school. The code is pretty trash (by my standards today) and I would write it very differently if I were to remake this bot today. Also Discord has probably made major changes to their API since I wrote this code, so this bot probably doesn't even work anymore. That being said, this was by far my biggest coding project at the time I made this, and it did have quite a few features:
 
 - Look up words on [Urban Dictionary](https://www.urbandictionary.com/)
 - Search for news articles on any topic (used [NewsCatcher API](https://www.newscatcherapi.com/))
