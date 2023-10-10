@@ -12,6 +12,6 @@ This is the source code of a Discord bot that I made in high school. The code is
 - Rickroll
 - And a whole bunch more, the full lists of commands can be found in the .txt files of the source code
 
-The bot was first ran on Wednesday, September 29th, 2021 and was shut down on Thursday, June 16th, 2022. I set up a Raspberry Pi at my house to run this bot 24/7 and it only ever went offline when my house lost power. I also set up VNC on the Raspberry Pi so I could remotely log into it from my laptop or my phone whenever I needed to do maintainance. The bot was primarily used to waste time in class with my friends looking up offensive words on urban dictionary in Discord group chats (we thought this was the funniest thing ever). Screenshots of the bot in use can be found in the screenshots folder.
+The bot was first ran on Wednesday, September 29th, 2021 and was shut down on Thursday, June 16th, 2022. I set up a Raspberry Pi at my house to run this bot 24/7 and it only ever went offline when my house lost power. I also set up VNC on the Raspberry Pi so I could remotely log into it from my laptop or my phone whenever I needed to do maintainance. The bot was primarily used to waste time in class with my friends looking up words on urban dictionary in Discord group chats (we thought this was the funniest thing ever). Screenshots of the bot in use can be found in the screenshots folder.
 
 Since I've graduated high school, I am no longer working on this project. Consider this repository as an archive.
