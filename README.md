@@ -18,4 +18,3 @@ Since I've graduated high school, I am no longer working on this project. Consid
 
 ![weather](https://raw.githubusercontent.com/GREENSHELLRAGE/alexs-ultra-bot/main/screenshots/weather.png)
 ![news](https://raw.githubusercontent.com/GREENSHELLRAGE/alexs-ultra-bot/main/screenshots/news.png)
-![urban dictionary](https://raw.githubusercontent.com/GREENSHELLRAGE/alexs-ultra-bot/main/screenshots/urbandictionary.png)
